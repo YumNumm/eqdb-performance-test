@@ -3,3 +3,5 @@
 .branches
 
 db_dump
+
+node_modules
