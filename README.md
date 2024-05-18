@@ -1,5 +1,11 @@
 # eqdb-performance-test
 
+EQMonitorの通知配信SQLのパフォーマンステスト用Repository
+
+- https://github.com/YumNumm/EQMonitor/issues/689
+  - 実行結果: https://github.com/YumNumm/EQMonitor/issues/689#issuecomment-2118983188
+  
+
 ## Migrationを実行して、実際に実行するSQLを生成する
 
 ```bash
